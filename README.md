@@ -4,7 +4,7 @@
 
 ```MRSA genome```: **mrsa.txt**
 
-```Toy reads```: **reads.txt** (500.000 reads, each has 100-bp long)
+```Toy reads```: **reads.txt.gz** (500.000 reads, each has 100-bp long)
 
 **FIND ONE MUTATION FROM READS !!!**
 
